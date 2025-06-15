@@ -4,3 +4,6 @@ token.pkl
 credentials.json
 AssistenteInstaller.iss
 build_assistente.bat
+main.spec
+dist/
+build/
