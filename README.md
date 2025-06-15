@@ -3,6 +3,7 @@ Assistente com Python
 Requisitos
 Python 3.11+
 Bibliotecas listadas no requirements.txt - Instale usando pip install -r requirements.txt
+
 🔧 Projeto em construção — em breve mais features como relatórios diários e análise de tempo.
 Projeto de automação pessoal utilizando:
 
