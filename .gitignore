@@ -1,0 +1,6 @@
+# Ignorar arquivo de config real com dados sensíveis
+config.py
+token.pkl
+credentials.json
+AssistenteInstaller.iss
+build_assistente.bat
